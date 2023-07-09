@@ -12,11 +12,11 @@ const Home = () => {
 			<>
 				< Navbar />
 
-				<div className="mb-5">
+				<div className="mb-3">
 					<Intro />
 				</div>
 
-				<div className="row container justify-content-between m-auto">
+				<div className="row container-fluid justify-content-between m-auto">
 					<div className="col-12 col-md-6 col-lg-3">
 						<Card />
 					</div>
